@@ -17,3 +17,10 @@ body {
 h1, p {
     color: white;
 }
+
+img {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
