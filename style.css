@@ -10,8 +10,8 @@ div{
 
 body {
   background-image: url("maxresdefault.jpg");
-  background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center;
 }
 
 h1, p {
