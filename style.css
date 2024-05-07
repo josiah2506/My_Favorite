@@ -10,3 +10,7 @@ div{
 body {
   background-image: url("maxresdefault.jpg");
 }
+
+h1, p, div {
+    text-color: white;
+}
