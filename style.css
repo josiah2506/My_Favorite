@@ -11,7 +11,7 @@ div{
 body {
   background-image: url("maxresdefault.jpg");
   background-repeat: no-repeat;
-  background-position: center;
+  background-attachment: fixed;
 }
 
 h1, p {
