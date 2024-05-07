@@ -10,6 +10,7 @@ div{
 
 body {
   background-image: url("maxresdefault.jpg");
+  margin: center;
 }
 
 h1, p {
