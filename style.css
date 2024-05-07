@@ -6,3 +6,7 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+body {
+  background-image: url("maxresdefault.jpg");
+}
